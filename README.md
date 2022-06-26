@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm currently involved in data science, Web Developement with HTML, CSS, JAVASCRIPT and REACT, and App developement using Flutterl.
+I'm currently involved in data science, Web Developement with HTML, CSS, JAVASCRIPT and REACT, and App developement using Flutter.
 <!--
 **vikash18o19/vikash18o19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
