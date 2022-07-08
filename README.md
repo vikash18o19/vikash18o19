@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vikash18o19&theme=cobalt)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vikash18o19)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vikash18o19)](https://git.io/streak-stats&theme=dark)
