@@ -33,3 +33,5 @@ Here are some ideas to get you started:
 
 <code><img height ="100" src = "https://brandeps.com/icon-download/P/Python-icon-vector-04.svg"></img></code>
 <code><img height ="100" src = "https://brandeps.com/logo-download/O/OpenCV-logo-vector-01.svg"></img></code>
+<code><img height ="100" src = "https://brandeps.com/icon-download/F/Flutter-icon-vector-02.svg"></img></code>
+<code><img height ="100" src = "https://brandeps.com/icon-download/D/Dart-icon-vector-02.svg"></img></code>
