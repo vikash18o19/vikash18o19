@@ -20,3 +20,9 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vikash18o19&theme=dark)](https://git.io/streak-stats)
 
 [![@vikash18o19's Holopin board](https://holopin.io/api/user/board?user=vikash18o19)](https://holopin.io/@vikash18o19)
+
+<code>
+  <h3>Tools and Tech: </h3>
+<img height ="20" src = "https://drive.google.com/file/d/1fnR96Go91kl7qgfPGBKWJ1FWDvpNDxzw/view?usp=sharing"></img>
+
+</code>
