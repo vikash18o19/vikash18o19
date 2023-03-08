@@ -19,10 +19,17 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vikash18o19&theme=dark)](https://git.io/streak-stats)
 
-[![@vikash18o19's Holopin board](https://holopin.io/api/user/board?user=vikash18o19)](https://holopin.io/@vikash18o19)
+<!-- [![@vikash18o19's Holopin board](https://holopin.io/api/user/board?user=vikash18o19)](https://holopin.io/@vikash18o19) -->
+<code> <h3>Tools and Tech: </h3></code>
+<code><img height ="100" src = "https://brandeps.com/logo-download/H/HTML-5-logo-vector-01.svg"></img></code>
+<code><img height ="100" src = "https://brandeps.com/logo-download/C/CSS-3-logo-vector-01.svg"></img></code>
+<code><img height ="100" src = "https://brandeps.com/logo-download/J/JavaScript-logo-vector-01.svg"></img></code>
+<code><img height ="100" src = "https://brandeps.com/logo-download/N/Node-JS-logo-vector-01.svg"></img></code>
 
-<code>
-  <h3>Tools and Tech: </h3>
-<img height ="20" src = "https://drive.google.com/file/d/1fnR96Go91kl7qgfPGBKWJ1FWDvpNDxzw/view?usp=sharing"></img>
+<code><img height ="100" src = "https://brandeps.com/logo-download/R/React-logo-vector-01.svg"></img></code>
+<code><img height ="100" src = "https://brandeps.com/logo-download/M/MongoDB-logo-vector-01.svg"></img></code>
+<code><img height ="100" src = "https://brandeps.com/logo-download/C/C-logo-vector-01.svg"></img></code>
+<code><img height ="100" src = "https://brandeps.com/logo-download/C/C++-logo-vector-01.svg"></img></code>
 
-</code>
+<code><img height ="100" src = "https://brandeps.com/icon-download/P/Python-icon-vector-04.svg"></img></code>
+<code><img height ="100" src = "https://brandeps.com/logo-download/O/OpenCV-logo-vector-01.svg"></img></code>
