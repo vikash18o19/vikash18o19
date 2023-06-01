@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vikash18o19&theme=cobalt)
-
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vikash18o19&theme=cobalt)
+ -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vikash18o19&theme=dark)](https://git.io/streak-stats)
 
 <!-- [![@vikash18o19's Holopin board](https://holopin.io/api/user/board?user=vikash18o19)](https://holopin.io/@vikash18o19) -->
